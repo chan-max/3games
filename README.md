@@ -1,1 +1,6 @@
-#  a mini project for 3d mini games
+#  多人协作的开放式小游戏
+
+## 小人物
+    - 会飞
+    - 会跳
+    - 
