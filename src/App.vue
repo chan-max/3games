@@ -1,9 +1,12 @@
-<script setup lang="ts">
+
+<template></template>
+
+<script setup>
+import * as THREE from 'three'
+
+
+
+
 </script>
 
-<template>
-  app
-</template>
-
-<style scoped>
-</style>
+<style scoped></style>
