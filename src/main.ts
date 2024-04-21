@@ -6,4 +6,3 @@ import './style/index.less'
 
 import { Application } from 'pixi.js';
 
-// Asynchronous IIFE
